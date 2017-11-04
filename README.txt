@@ -18,7 +18,7 @@ Remarks:
   Act-condition if (System.nanoTime () - starttime1> = t) ie check time
   execution is over the time we entered to stop counting
   Clearly, he wants more time.
-  Also if we import time beyond the boundaries or characters try-catch
+  Also if we import time beyond the boundaries or characters-->error (try-catch)
 
 
 
