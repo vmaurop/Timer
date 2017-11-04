@@ -1,7 +1,8 @@
 # Timer
 The purpose is to measure how fast a computer is
 
-How long a computer wants to do some "time to consume" action/calculation.     (sum:for(long i=0;i<=Integer.MAX_VALUE;i++))
+How long a computer wants to do some "time to consume" action/calculation.     
+(sum:for(long i=0;i<=Integer.MAX_VALUE;i++))
 But also the opposite, that is to try to measure how many operations/calculations  
 a computer can do at a certain time
 
